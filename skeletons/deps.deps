@@ -1,0 +1,20 @@
+# DON'T FORGET to update fonix_projects.dat for new projects!!
+
+CreateToolkit;
+
+LinkAgainst {
+}
+
+SourceFiles {
+  <+CURSOR+>
+}
+
+ProductionDirectory=FACTSET_EXE:
+
+Owners {
+}
+
+AnsiAliasEnabled;
+DynArrayMustUseFDSExport;
+EnableFDSExport;
+NoMangledNames;
